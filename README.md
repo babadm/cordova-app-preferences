@@ -1,3 +1,7 @@
+# cordova-app-preferences
+
+Cordova app preferences plugin rescue
+
 Application preferences plugin for Cordova 3+
 -----------------------
 
@@ -177,3 +181,4 @@ https://github.com/phonegap/phonegap-plugins/tree/master/iOS/ApplicationPreferen
 
 Another android implementation for cordova 2.x:
 https://github.com/macdonst/AppPreferences
+
